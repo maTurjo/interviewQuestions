@@ -1,0 +1,67 @@
+[
+    {
+        "question":"What is your name ?",
+        "tagName":"input",
+        "type":"text",
+        "name":"inputName",
+        "placeholder":"Input Placeholder"
+    },
+    {
+        "question":"Tell us A Bit About Yourself",
+        "tagName":"input",
+        "type":"textarea",
+        "name":"inputName",
+        "placeholder":"Input Placeholder"
+    },
+    {
+        "question":"What is your birthday",
+        "tagName":"input",
+        "type":"date",
+        "name":"inputName",
+        "placeholder":"Input Placeholder"
+    },
+    {
+        "question":"Upload Your CV",
+        "tagName":"input",
+        "type":"file",
+        "name":"inputName",
+        "placeholder":"Input Placeholder"
+    },
+    {
+        "question":"Enter your email address",
+        "tagName":"input",
+        "type":"email",
+        "name":"inputName",
+        "placeholder":"Input Placeholder"
+    },
+    {
+        "question":"Enter Your Password",
+        "tagName":"input",
+        "type":"password",
+        "name":"inputName",
+        "placeholder":"Input Placeholder"
+    },
+    {
+        "question":"Enter Your Telephone number",
+        "tagName":"input",
+        "type":"tell",
+        "name":"inputName",
+        "placeholder":"Input Placeholder"
+    },
+    {
+        "question":"Are You A Good Person?",
+        "tagName":"input",
+        "type":"checkbox",
+        "name":"inputName",
+        "options":["Yes","No"],
+        "placeholder":"Input Placeholder"
+    },
+    {
+        "question":"Are You A Good Person?",
+        "tagName":"input",
+        "type":"radio",
+        "name":"inputName",
+        "options":["Yes","No"],
+        "placeholder":"Input Placeholder"
+    }
+]
